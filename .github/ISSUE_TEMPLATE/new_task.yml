@@ -17,7 +17,8 @@ body:
       label: タスクリスト
       description: 細かいタスクに分解して書き出す
       value: |
-        "+ [ ] "
+        + [ ] task01
+        + [ ] task02
     validations:
       required: false
   - type: textarea
