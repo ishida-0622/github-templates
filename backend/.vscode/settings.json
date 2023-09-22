@@ -1,0 +1,23 @@
+{
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
+  "[kotlin]": {
+    "editor.defaultFormatter": "fwcd.kotlin"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnType": true
+  },
+  "[ruby]": {
+    "editor.defaultFormatter": "rebornix.ruby"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true
+}
